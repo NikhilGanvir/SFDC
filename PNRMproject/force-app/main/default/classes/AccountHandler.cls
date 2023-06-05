@@ -6,4 +6,8 @@ public class AccountHandler
       acc.Name='Nikhil Ganvir';
       insert acc;
   }
+   public static void method12()
+  {
+     //This is contact method
+  }
 }
